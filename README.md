@@ -1,17 +1,19 @@
-# gulp-tag-include-html
+﻿# gulp-tag-include-html
 is a gulp plugin,used to include html.
 
-## feature
-    Using the <include> tag that include the HTML fragment in other files;
-    Using the doT.js template engine, rendering include content;
-    Using the tag attributes and child elements, two ways to transfer data;
-    doT.js document：http://olado.github.io/doT/
+github: https://github.com/nickham-su/gulp-tag-include-html
 
-    在html中使用<include>标签，包含其他文件中的html片段；
-    使用doT.js模板引擎，渲染被包含的内容；
-    使用标签属性和子元素，两种方式传递数据；
-    doT.js模板引擎文档：http://olado.github.io/doT/
-    (英文不好，以上特性描述如果有误，欢迎指正：50793247@qq.com)
+## feature
+Using the <include> tag that include the HTML fragment in other files;
+Using the doT.js template engine, rendering include content;
+Using the tag attributes and child elements, two ways to transfer data;
+doT.js document：http://olado.github.io/doT/
+
+在html中使用<include>标签，包含其他文件中的html片段；
+使用doT.js模板引擎，渲染被包含的内容；
+使用标签属性和子元素，两种方式传递数据；
+doT.js模板引擎文档：http://olado.github.io/doT/
+(英文不好，以上特性描述如果有误，欢迎指正：50793247@qq.com)
 
 ## install
 ```bash
