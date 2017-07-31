@@ -24,10 +24,10 @@ var include = require('gulp-tag-include-html');
 gulp.task('default', function() {
     gulp.src('./views/index.html')
       .pipe(include())
-	  /*.pipe(include({
+	    .pipe(include({
         begin:'<%',
         end:'%>'
-      }))*/
+      }))
       .pipe(gulp.dest('dest'));
 });
 ```
