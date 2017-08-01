@@ -1,6 +1,6 @@
 {
   "name": "gulp-tag-include-html",
-  "version": "1.4.7",
+  "version": "1.4.6",
   "description": "",
   "main": "index.js",
   "scripts": {},
